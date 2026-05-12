@@ -4,3 +4,4 @@
 *.onnx* filter=lfs diff=lfs merge=lfs -text
 *.json* filter=lfs diff=lfs merge=lfs -text
 [[:space:]][[:space:]]Models/** filter=lfs diff=lfs merge=lfs -text
+Models/** filter=lfs diff=lfs merge=lfs -text
